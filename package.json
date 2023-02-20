@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "braden norum",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.149.0"
+  }
+}
